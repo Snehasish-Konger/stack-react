@@ -19,7 +19,7 @@
 }
 
 .stack-item {
-  width: 30px;
+  width: auto;
   height: 30px;
   background: #a3fc9d;
   border-radius: 5px;
