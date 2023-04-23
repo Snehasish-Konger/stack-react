@@ -19,6 +19,7 @@
 }
 
 .stack-item {
+  min-width: 100px;
   width: auto;
   height: 30px;
   background: #a3fc9d;
