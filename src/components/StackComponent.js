@@ -29,6 +29,7 @@ class StackComponent extends Component {
     return (
       <div className="stack-container">
         <h1 className="stack-title">Stack Data Structure</h1>
+        <p>Read the blog from here:<a href="https://scientyficworld.org/stack-data-structure-using-reactjs/" rel="noopener noreferrer dofollow" target="_blank" >Stack Data Structure in React.js</a></p>
         <form>
           <input
             type="text"
